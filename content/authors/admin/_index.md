@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:sara.rosenau@pitt.edu'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/sarosenau
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -43,42 +43,35 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Internet/digital studies
+  - Sociolinguistics
+  - Linguistic anthropology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Linguistics - PhD
+    institution: University of Pittsburgh
+    date_start: Fall 2022
+    date_end: In progress
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Advisor: Scott Kiesling
+    # button:
+      # text: 'Read Thesis'
+      #url: 'https://example.com'
+  - area: Linguistics - MA
+    institution: University of Colorado - Boulder
+    date_start: Fall 2020
+    date_end: Spring 2022
+    summary: |
+     Wrote a thesis entitled "Mock Koreaboo - Appropriating Appropriation" advised by Kira Hall
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      url: 'https://www.proquest.com/dissertations-theses/mock-koreaboo-appropriating-appropriation/docview/2681505360/se-2'
+  - area: Linguistics - BA
+    institution: University of Chicago
+    date_start: Fall 2015
+    date_end: Spring 2019
+    # summary: |
+     
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -179,4 +172,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+[UNDER CONSTRUCTION]
