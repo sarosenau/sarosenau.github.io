@@ -50,8 +50,8 @@ interests:
 education:
   - area: Linguistics - PhD
     institution: University of Pittsburgh
-    date_start: Fall 2022
-    date_end: In progress
+    date_start: 2022-08-25
+    date_end: 2027-05-01
     summary: |
       Advisor: Scott Kiesling
     # button:
@@ -59,8 +59,8 @@ education:
       #url: 'https://example.com'
   - area: Linguistics - MA
     institution: University of Colorado - Boulder
-    date_start: Fall 2020
-    date_end: Spring 2022
+    date_start: 2020-08-20
+    date_end: 2022-05-01
     summary: |
      Wrote a thesis entitled "Mock Koreaboo - Appropriating Appropriation" advised by Kira Hall
     button:
@@ -68,8 +68,8 @@ education:
       url: 'https://www.proquest.com/dissertations-theses/mock-koreaboo-appropriating-appropriation/docview/2681505360/se-2'
   - area: Linguistics - BA
     institution: University of Chicago
-    date_start: Fall 2015
-    date_end: Spring 2019
+    date_start: 2015-10-01
+    date_end: 2019-06-15
     # summary: |
      
 work:
