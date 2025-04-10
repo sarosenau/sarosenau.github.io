@@ -36,9 +36,9 @@ profiles:
   - icon: brands/github
     url: https://github.com/sarosenau
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/sara-rosenau/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=_Qo-qI0AAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
