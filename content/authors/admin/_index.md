@@ -10,8 +10,8 @@ first_name: Sara Haskin
 last_name: Rosenau
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -39,8 +39,8 @@ profiles:
     url: https://www.linkedin.com/in/sara-rosenau/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=_Qo-qI0AAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: fab/bluesky
+    url: https://bsky.app/profile/sararosenauling.bsky.social
 
 interests:
   - Internet/digital studies
