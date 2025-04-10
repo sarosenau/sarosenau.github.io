@@ -39,7 +39,7 @@ profiles:
     url: https://www.linkedin.com/in/sara-rosenau/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=_Qo-qI0AAAAJ&hl=en
-  - icon: fab/bluesky
+  - icon: custom/bluesky
     url: https://bsky.app/profile/sararosenauling.bsky.social
 
 interests:
