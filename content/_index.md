@@ -4,6 +4,7 @@ title: ""
 date: 2025-04-09
 type: landing
 
+
 design:
   # Default section spacing
   spacing: "6rem"
@@ -120,4 +121,4 @@ sections:
 #         # Card background color (CSS class)
 #         css_class: "bg-primary-700"
 #         css_style: ""
-# ---
+ ---
